@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_myGame/Scenes/LineScene-1.unity
+    guid: 3008df44953f4e54a8a9afea05f3c2e5
+  - enabled: 1
+    path: Assets/_myGame/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_myGame/Scenes/Level2.unity
+    guid: 2ee13c2c511ecbe4bb732d8e06f19333
+  - enabled: 1
+    path: Assets/_myGame/Scenes/Level3.unity
+    guid: ed86acb9f5ec79f46a609a2349664a7d
+  - enabled: 1
+    path: Assets/_myGame/Scenes/Level4.unity
+    guid: a5bf270909f44a440bae60391b1e7403
+  - enabled: 1
+    path: Assets/_myGame/Scenes/LineScene-2.unity
+    guid: 59a197af2c1473442926de737a044101
+  - enabled: 1
+    path: Assets/_myGame/Scenes/Level5.unity
+    guid: ccae01aae50393a4cb500adaae451791
+  - enabled: 1
+    path: Assets/_myGame/Scenes/Level6.unity
+    guid: 142db98054424aa4a9d88489163aab31
+  - enabled: 1
+    path: Assets/_myGame/Scenes/Level7.unity
+    guid: ac5def5f17129ab4099e1f37435afe64
+  - enabled: 1
+    path: Assets/_myGame/Scenes/LineScene-3.unity
+    guid: c7fdb68195adca3468ebcd89f180dda2
+  m_configObjects: {}
